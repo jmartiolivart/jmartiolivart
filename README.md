@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @jmartiolivart
-- 👀 I’m interested in ...Nothing
-- 🌱 I’m currently learning ...Something
-- 💞️ I’m looking to collaborate on ...Mario
-- 📫 How to reach me ...by face to face
+Welcome to my Github page !
 
 <!---
 jmartiolivart/jmartiolivart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
